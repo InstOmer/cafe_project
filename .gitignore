@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Python
+pycache/
+*.pyc
+
+# Diğer
+.DS_Store
+Thumbs.db
